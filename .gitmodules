@@ -1,3 +1,6 @@
 [submodule "source/powershell"]
 	path = source/powershell
 	url = git@github.com:w0rd-driven/jazzhands-powershell.git
+[submodule "source/php"]
+	path = source/php
+	url = git@github.com:w0rd-driven/jazzhands-php.git
