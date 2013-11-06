@@ -1,0 +1,3 @@
+[submodule "source/powershell"]
+	path = source/powershell
+	url = git@github.com:w0rd-driven/jazzhands-powershell.git
