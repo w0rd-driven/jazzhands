@@ -6,4 +6,4 @@
 	url = git@github.com:w0rd-driven/jazzhands-php.git
 [submodule "source/nodejs"]
 	path = source/nodejs
-	url = https://github.com/w0rd-driven/jazzhands-nodejs
+	url = https://github.com/w0rd-driven/jazzhands-nodejs.git
